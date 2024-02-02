@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+FileWriteService.iml
+BaseUrlConfig.iml
+FileReadService.iml
+Main.iml
+
