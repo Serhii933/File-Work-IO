@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-
 public class FileReadService {
     public static String readFromFile(String fileName) {
         StringBuilder content = new StringBuilder();
