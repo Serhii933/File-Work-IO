@@ -1,3 +1,7 @@
-# Default ignored files
+.idea/
+FileWriteService.iml
+BaseUrlConfig.iml
+FileReadService.iml
+Main.iml
 /shelf/
 /workspace.xml
